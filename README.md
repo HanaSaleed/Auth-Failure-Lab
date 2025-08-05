@@ -1,2 +1,3 @@
 # Auth-Failure-Lab
-A custom TryHackMe room titled Authentication Failures, featuring a deliberately vulnerable website built to demonstrate user enumeration, SQL injection, brute force, IDOR, and insecure direct access through robots.txt.
+Vulnerable web application and full lab materials for the TryHackMe room [Authentication Failures](https://tryhackme.com/jr/authenticationfailures)
+, demonstrating common authentication vulnerabilities like user enumeration, SQL injection, brute force, IDOR, and directory traversal
